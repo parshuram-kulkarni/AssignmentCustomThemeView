@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomViewApplication</string>
+
+
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="city">City</string>
+
+</resources>
